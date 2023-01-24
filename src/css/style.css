@@ -124,6 +124,7 @@ body {
 .close-modal {
   background-color: #ffffff;
   color: #f03a17;
+  margin-left: 600px;
   font-weight: bold;
   font-size: 20px;
   width: 40px;
